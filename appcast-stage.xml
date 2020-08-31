@@ -9,7 +9,7 @@
     <language>en</language>
     <item>
       <title>Version %version</title>
-      <enclosure url="https://github.com/spelly-io/plugin-stage/releases/download/0.0.32/spelly.sketchplugin-v0.0.32-stage.zip" sparkle:version="0.0.32" type="application/octet-stream" />
+      <enclosure url="https://github.com/spelly-io/plugin-stage/releases/download/0.0.33/spelly.sketchplugin-v0.0.33-stage.zip" sparkle:version="0.0.33" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
